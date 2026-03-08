@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png" alt="Alt text" style="width: 100%; height: 100%; />
+<img src="https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png" width="150" style="border-radius: 25px;" />
 
 # ScrollNinja
 ### Fast scroll with the click of the mouse scroll wheel.
