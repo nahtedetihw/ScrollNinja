@@ -1,4 +1,4 @@
-[![download](https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png)](https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png)
+<img src="https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png" width="150" style="border-radius: 25%;" />
 
 
 # ScrollNinja
