@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		+PfMmmPBwpVL5PDA60gx9mAeZTo=
+		NyStU/XBPKtG2S4NPZHwC+ZstsM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			gqpVoQonvkziW4m5hzUuTVUvoQg=
+			7ZPPGjjojxYgTfOo0oT2NhNFR/M=
 			</data>
 			<key>requirement</key>
 			<string>identifier "ScrollNinja.debug" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ethanwhited2208@gmail.com (BF5ZZ8LLPH)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -44,7 +44,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9aqK7AhfLVFSoom/cmgK+1f2xGdSxB6fy2aeVFj1r6Q=
+			Aw8hE41B6Ehecpi4Kv4nVNBbfwpVMGhdj+FLAY1vyZY=
 			</data>
 		</dict>
 	</dict>
