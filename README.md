@@ -9,7 +9,8 @@
 - configure option in the menu bar
 
 A dedicated settings panel shows up in the MacOS menu bar after installation.
-<img src="https://i.ibb.co/TDPm8Svv/Screenshot-2026-03-08-at-6-46-04-PM.png" width="300" style="border-radius: 25px;" />
+
+<img src="https://i.ibb.co/TDPm8Svv/Screenshot-2026-03-08-at-6-46-04-PM.png" width="500" style="border-radius: 25px;" />
 
 
 ### Follow Me
