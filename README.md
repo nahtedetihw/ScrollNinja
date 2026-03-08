@@ -1,4 +1,5 @@
-![download]([https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png](https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png))
+[![download](https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png)](https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png)
+
 
 # ScrollNinja
 ### Fast scroll with the click of the mouse scroll wheel.
