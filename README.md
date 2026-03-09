@@ -17,6 +17,7 @@ A dedicated settings panel shows up in the MacOS menu bar after installation.
 <img src="https://i.ibb.co/TDPm8Svv/Screenshot-2026-03-08-at-6-46-04-PM.png" width="500" style="border-radius: 25px;" />
 </p>
 
+Click your middle mouse button and drag your mouse in the direction you wan to scroll.
 <p align="center">
 <img src="https://i.ibb.co/FqwRLcvW/Scroll-Ninja-Fast-Scroll-Example-2.gif" width="900" style="border-radius: 25px;" />
 </p>
