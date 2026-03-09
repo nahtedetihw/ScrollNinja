@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png" width="150" style="border-radius: 25px;" />
+<p align="center">
+  <img src="https://i.ibb.co/DH7xwvGK/Scroll-Ninja.png" width="150" style="border-radius: 25px;" />
+</p>
 
 # ScrollNinja
 ### Fast scroll with the click of the mouse scroll wheel.
@@ -8,10 +10,16 @@
 - Once enabled, app will work right away
 - configure option in the menu bar
 
+
 A dedicated settings panel shows up in the MacOS menu bar after installation.
 
+<p align="center">
 <img src="https://i.ibb.co/TDPm8Svv/Screenshot-2026-03-08-at-6-46-04-PM.png" width="500" style="border-radius: 25px;" />
+</p>
 
+<p align="center">
+<img src="https://i.ibb.co/FqwRLcvW/Scroll-Ninja-Fast-Scroll-Example-2.gif" width="900" style="border-radius: 25px;" />
+</p>
 
 ### Follow Me
 [Twitter](https://twitter.com/ethanwhited) - follow me for more up to date info, or ask me anything.
